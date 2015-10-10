@@ -1,0 +1,13 @@
+/*
+ * Namecheap - Hide Unavailable
+ * Userstyle by pixeldesu
+ * Part of the Visuals userstyle project
+ * -------------------------------------
+ * https://github.com/pixeldesu/visuals
+ * -------------------------------------
+ * URLs starting with: namecheap.com
+ */
+
+.unavailable {
+  display: none;
+}
