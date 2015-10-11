@@ -9,6 +9,7 @@
  */ 
 
 [data-disclosure-type="promoted"],
-.promoted-account {
+.promoted-account,
+.promoted-trend {
   display: none;
 }
