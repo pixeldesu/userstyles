@@ -1,0 +1,17 @@
+/*
+ * Twitter - Hide Promoted
+ * Userstyle by pixeldesu
+ * Part of the Visuals userstyle project
+ * -------------------------------------
+ * https://github.com/pixeldesu/visuals
+ * -------------------------------------
+ */ 
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("twitter.com") {
+  [data-disclosure-type="promoted"] {
+    display: none;
+  }
+}
+ 

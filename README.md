@@ -13,6 +13,8 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
 
 * **Namecheap**
   * _Hide Unavailable:_ Hide unavailable domains in the Namecheap domain search. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/namecheap/unavailable/unavailable.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/namecheap/unavailable/unavailable.firefox.css))
+* **Twitter**
+  * _Hide Promoted:_ Hide promoted tweets in your timelines. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/twitter/promoted/promoted.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/twitter/promoted/promoted.firefox.css))
 
 ## Contribute
 
