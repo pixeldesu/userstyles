@@ -10,7 +10,8 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("twitter.com") {
-  [data-disclosure-type="promoted"] {
+  [data-disclosure-type="promoted"],
+  .promoted-account {
     display: none;
   }
 }

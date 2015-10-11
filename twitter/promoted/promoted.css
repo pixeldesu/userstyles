@@ -8,6 +8,7 @@
  * URLs starting with: twitter.com
  */ 
 
-[data-disclosure-type="promoted"] {
+[data-disclosure-type="promoted"],
+.promoted-account {
   display: none;
 }
