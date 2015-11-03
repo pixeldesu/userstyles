@@ -17,6 +17,7 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
   * _Hide Promoted:_ Hide promoted tweets in your timelines. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/twitter/promoted/promoted.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/twitter/promoted/promoted.firefox.css))
 * **TweetDeck**
   * _Readd Stars:_ Readd the stars from favorites. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/stars/stars.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/stars/stars.firefox.css))
+
 ## Contribute
 
 Have a small userstyle that makes usage of a website easier for you and you want to share it? Just open a Pull Request and add your userstyle compliant to the folder/file-naming style of the repository and I'll look into adding it!
