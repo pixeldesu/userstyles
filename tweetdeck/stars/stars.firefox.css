@@ -1,0 +1,24 @@
+/*
+ * TweetDeck - Readd Stars
+ * Userstyle by pixeldesu
+ * Part of the Visuals userstyle project
+ * -------------------------------------
+ * https://github.com/pixeldesu/visuals
+ * -------------------------------------
+ */
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("tweetdeck.twitter.com") {
+  .hearty .icon-favorite:before {
+    content: "";
+  }
+
+  .hearty .is-favorite .icon-favorite-toggle {
+    color: #FAB41E;
+  }
+  
+  .hearty .icon-favorite-color {
+    color: #FAB41E;
+  }
+}
