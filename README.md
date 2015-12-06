@@ -17,6 +17,7 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
   * _Hide Promoted:_ Hide promoted tweets in your timelines. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/twitter/promoted/promoted.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/twitter/promoted/promoted.firefox.css))
 * **TweetDeck**
   * _Readd Stars:_ Readd the stars from favorites. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/stars/stars.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/stars/stars.firefox.css))
+  * _Hide Read Direct Messages:_ Hide read direct messages. ([Chrome](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/direct-messages/direct-messages.css)/[Firefox](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/direct-messages/direct-messages.firefox.css))
 
 ## Contribute
 
