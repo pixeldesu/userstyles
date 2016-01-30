@@ -3,7 +3,7 @@
  * Userstyle by pixeldesu
  * Part of the Visuals userstyle project
  * -------------------------------------
- * https://github.com/pixeldesu/visuals
+ * https://github.com/nightbug/visuals
  * -------------------------------------
  */
 
@@ -17,11 +17,11 @@
   .hearty .is-favorite .icon-favorite-toggle {
     color: #FAB41E;
   }
-  
+
   .hearty .icon-favorite-color {
     color: #FAB41E;
   }
-  
+
   .hearty .sprite {
     background-image: url("https://ton.twimg.com/tweetdeck-web/web/assets/global/backgrounds/td_sprite_sheet_2013_@1x.e0708304e2.png");
   }
