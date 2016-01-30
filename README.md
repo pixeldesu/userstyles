@@ -11,6 +11,8 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
 
 ## Available Styles
 
+* **Bandcamp**
+  * _Compact Collection:_ Hide unnecessary content from collection pages. ([Chrome](https://github.com/nightbug/visuals/blob/master/bandcamp/collection/collection.css)/[Firefox](https://github.com/nightbug/visuals/blob/master/bandcamp/collection/collection.firefox.css))
 * **Namecheap**
   * _Hide Unavailable:_ Hide unavailable domains in the Namecheap domain search. ([Chrome](https://github.com/nightbug/visuals/blob/master/namecheap/unavailable/unavailable.css)/[Firefox](https://github.com/nightbug/visuals/blob/master/namecheap/unavailable/unavailable.firefox.css))
 * **Twitter**
