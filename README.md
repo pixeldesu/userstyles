@@ -13,6 +13,8 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
 
 * **Bandcamp**
   * _[Compact Collection](https://raw.githubusercontent.com/pixeldesu/visuals/master/bandcamp/collection/collection.user.css):_ Hide unnecessary content from collection pages.
+* **Mastodon** (replace the placeholder URL after installing!)
+  * _[Hide Verified Emoji](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/verified/verified.user.css):_ Hide the verified emoji on Mastodon.
 * **Namecheap**
   * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
 * **TweetDeck**

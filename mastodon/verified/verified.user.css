@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Mastodon - Hide Verified Emoji
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    Hide the verified emoji on Mastodon
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("your-mastodon-instance-url-here.com") {
+    img.custom-emoji[alt*="verified"] {
+        display: none;
+    }
+}
