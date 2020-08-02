@@ -3,9 +3,9 @@ Userstyles to make your life easier on some websites.
 
 ## General Usage
 
-To use these styles you need to install a userscript extension to manage and add userstyles. All of the used styles are tested with **Stylish** (Download for [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe) and [Firefox](https://addons.mozilla.org/en/firefox/addon/stylish/)).
+To use these styles you need to install a userscript extension to manage and add userstyles. All of the used styles are tested with **Stylus** (Download for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)).
 
-Simply copy the contents of the `.css`-files specified down below into a new style section in Stylish and you are good to go!
+Simply copy the contents of the `.css`-files specified down below into a new style section in Stylus and you are good to go!
 
 Styles applied for Chrome have the URL rules in the comment section at the top of each file. Firefox userstyles have a domain set inside the styles and don't need specific configuration.
 
