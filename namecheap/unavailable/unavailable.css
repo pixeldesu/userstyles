@@ -1,13 +1,16 @@
-/*
- * Namecheap - Hide Unavailable
- * Userstyle by pixeldesu
- * Part of the Visuals userstyle project
- * -------------------------------------
- * https://github.com/nightbug/visuals
- * -------------------------------------
- * URLs on the domain: namecheap.com
- */
-
-.unavailable {
-  display: none;
+@-moz-document domain("namecheap.com") {
+  /*
+   * Namecheap - Hide Unavailable
+   * Userstyle by pixeldesu
+   * Part of the Visuals userstyle project
+   * -------------------------------------
+   * https://github.com/pixeldesu/visuals
+   * -------------------------------------
+   */
+  
+  @namespace url(http://www.w3.org/1999/xhtml);
+  
+  #react-nc-search article.unavailable {
+      display: none;
+  }
 }
