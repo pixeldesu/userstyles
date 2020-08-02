@@ -12,12 +12,11 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
 ## Available Styles
 
 * **Bandcamp**
-  * _Compact Collection:_ Hide unnecessary content from collection pages. ([Chrome](https://github.com/nightbug/visuals/blob/master/bandcamp/collection/collection.css)/[Firefox](https://github.com/nightbug/visuals/blob/master/bandcamp/collection/collection.firefox.css))
+  * _[Compact Collection](https://github.com/pixeldesu/visuals/blob/master/bandcamp/collection/collection.css):_ Hide unnecessary content from collection pages.
 * **Namecheap**
-  * _Hide Unavailable:_ Hide unavailable domains in the Namecheap domain search. ([Chrome](https://github.com/nightbug/visuals/blob/master/namecheap/unavailable/unavailable.css)/[Firefox](https://github.com/nightbug/visuals/blob/master/namecheap/unavailable/unavailable.firefox.css))
+  * _[Hide Unavailable](https://github.com/pixeldesu/visuals/blob/master/namecheap/unavailable/unavailable.css):_ Hide unavailable domains in the Namecheap domain search.
 * **TweetDeck**
-  * _Readd Stars:_ Readd the stars from favorites. ([Chrome](https://github.com/nightbug/visuals/blob/master/tweetdeck/stars/stars.css)/[Firefox](https://github.com/nightbug/visuals/blob/master/tweetdeck/stars/stars.firefox.css))
-  * _Hide Read Direct Messages:_ Hide read direct messages. ([Chrome](https://github.com/nightbug/visuals/blob/master/tweetdeck/direct-messages/direct-messages.css)/[Firefox](https://github.com/nightbug/visuals/blob/master/tweetdeck/direct-messages/direct-messages.firefox.css))
+  * _[Hide Read Direct Messages](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/direct-messages/direct-messages.css):_ Hide read direct messages.
 
 ## Contribute
 
