@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Mastodon - Hide All But First Pinned Post
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    Hide each pinned post except the first one on user profiles on Mastodon
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("your-mastodon-instance-url-here.com") {
+    article[data-id^="f-"]:not(:first-of-type) {
+        display: none;
+    }
+}

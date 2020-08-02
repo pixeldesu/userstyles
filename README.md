@@ -16,6 +16,7 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
 * **Mastodon** _(replace the placeholder URL after installing!)_
   * _[Hide Verified Emoji](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/verified/verified.user.css):_ Hide the verified emoji on Mastodon.
   * _[Hide "Filtered" Text](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/filtered/filtered.user.css):_ Hide the "Filtered" boxes on timelines on Mastodon.
+  * _[Hide All But First Pinned Post](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/first-pinned/first-pinned.user.css):_ Hide each pinned post except the first one on user profiles on Mastodon.
 * **Namecheap**
   * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
 * **TweetDeck**
