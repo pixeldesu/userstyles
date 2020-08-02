@@ -1,13 +1,12 @@
-@-moz-document domain("tweetdeck.twitter.com") {
-  /*
-  * TweetDeck - Hide Read Direct Messages
-  * Userstyle by pixeldesu
-  * Part of the Visuals userstyle project
-  * -------------------------------------
-  * https://github.com/pixeldesu/visuals
-  * -------------------------------------
-  */
+/* ==UserStyle==
+@name           TweetDeck - Hide Read Direct Messages
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    Hide read direct message texts from TweetDeck
+@author         pixeldesu
+==/UserStyle== */
 
+@-moz-document domain("tweetdeck.twitter.com") {
   .tweet-message .l-table {
     display: none !important;
   }

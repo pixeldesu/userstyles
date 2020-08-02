@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Namecheap - Hide Unavailable
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    Hide unavailable domains from Namecheap
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("namecheap.com") {
+  #react-nc-search article.unavailable {
+      display: none;
+  }
+}

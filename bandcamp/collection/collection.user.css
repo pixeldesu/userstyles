@@ -1,0 +1,33 @@
+/* ==UserStyle==
+@name           Bandcamp - Compact Collection
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    A more compact Bandcamp collection view
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("bandcamp.com") {
+  .collection-item-details-container,
+  .collection-item-fav-track,
+  .collection-item-actions,
+  .collection-item-why,
+  .collected-by {
+      display: none;
+  }
+
+  .collection-item-artist {
+      margin-bottom: 5px;
+  }
+
+  .collection-item-title {
+      max-width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+
+  li.collection-item-container {
+      margin: 0 0 10px 20px;
+      min-height: initial;
+  }
+}

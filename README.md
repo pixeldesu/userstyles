@@ -5,18 +5,18 @@ Userstyles to make your life easier on some websites.
 
 To use these styles you need to install a userscript extension to manage and add userstyles. All of the used styles are tested with **Stylus** (Download for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)).
 
-Simply copy the contents of the `.css`-files specified down below into a new style section in Stylus and you are good to go!
+Click on the links in the list below to directly install the styles into your local userstyle extension!
 
 Styles applied for Chrome have the URL rules in the comment section at the top of each file. Firefox userstyles have a domain set inside the styles and don't need specific configuration.
 
 ## Available Styles
 
 * **Bandcamp**
-  * _[Compact Collection](https://github.com/pixeldesu/visuals/blob/master/bandcamp/collection/collection.css):_ Hide unnecessary content from collection pages.
+  * _[Compact Collection](https://raw.githubusercontent.com/pixeldesu/visuals/blob/master/bandcamp/collection/collection.user.css):_ Hide unnecessary content from collection pages.
 * **Namecheap**
-  * _[Hide Unavailable](https://github.com/pixeldesu/visuals/blob/master/namecheap/unavailable/unavailable.css):_ Hide unavailable domains in the Namecheap domain search.
+  * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/blob/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
 * **TweetDeck**
-  * _[Hide Read Direct Messages](https://github.com/pixeldesu/visuals/blob/master/tweetdeck/direct-messages/direct-messages.css):_ Hide read direct messages.
+  * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/visuals/blob/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
 
 ## Contribute
 
