@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Mastodon - Hide "Filtered" Text
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    Hide the filtered box on timelines on Mastodon
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("your-mastodon-instance-url-here.com") {
+    .status__wrapper--filtered {
+        display: none;
+    }
+}
