@@ -12,11 +12,11 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
 ## Available Styles
 
 * **Bandcamp**
-  * _[Compact Collection](https://raw.githubusercontent.com/pixeldesu/visuals/blob/master/bandcamp/collection/collection.user.css):_ Hide unnecessary content from collection pages.
+  * _[Compact Collection](https://raw.githubusercontent.com/pixeldesu/visuals/master/bandcamp/collection/collection.user.css):_ Hide unnecessary content from collection pages.
 * **Namecheap**
-  * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/blob/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
+  * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
 * **TweetDeck**
-  * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/visuals/blob/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
+  * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/visuals/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
 
 ## Contribute
 
