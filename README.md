@@ -19,6 +19,8 @@ Styles applied for Chrome have the URL rules in the comment section at the top o
   * _[Hide All But First Pinned Post](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/first-pinned/first-pinned.user.css):_ Hide each pinned post except the first one on user profiles on Mastodon.
 * **Namecheap**
   * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
+* **trackmania.io**
+  * _[Trophy Labels](https://raw.githubusercontent.com/pixeldesu/visuals/master/trackmania-io/trophies/trophies.user.css):_ Adds labels to trophies to display their tiers more easily.
 * **TweetDeck**
   * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/visuals/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
 

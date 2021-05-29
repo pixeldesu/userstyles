@@ -1,0 +1,45 @@
+/* ==UserStyle==
+@name           trackmania.io - Trophy Labels
+@namespace      github.com/pixeldesu/visuals
+@version        1.0.0
+@description    Adds labels to trophies on trackmania.io
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("trackmania.io") {
+    .trophy-item {
+        display: inline-flex;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        margin-right: 5px;
+        justify-content: center;
+        padding-right: 5px;
+    }
+    
+    .trophy-item[title$="1"],
+    .trophy-item[title$="2"],
+    .trophy-item[title$="3"] {
+        border-color: #FF9800;
+    }
+    
+    .trophy-item[title$="4"],
+    .trophy-item[title$="5"],
+    .trophy-item[title$="6"] {
+        border-color: #9E9E9E;
+    }
+    
+    .trophy-item[title$="7"],
+    .trophy-item[title$="8"],
+    .trophy-item[title$="9"] {
+        border-color: #FFEB3B;
+    }
+    
+    .trophy-item:after {
+        display: inline-block;
+        content: attr(title);
+        align-self: center;
+        font-size: .9rem;
+        color: rgba(0, 0, 0, .5);
+        padding-left: 5px;
+    }
+}
