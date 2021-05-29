@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           trackmania.io - Trophy Labels
 @namespace      github.com/pixeldesu/visuals
-@version        1.0.0
+@version        1.1.0
 @description    Adds labels to trophies on trackmania.io
 @author         pixeldesu
 ==/UserStyle== */
@@ -41,5 +41,13 @@
         font-size: .9rem;
         color: rgba(0, 0, 0, .5);
         padding-left: 5px;
+    }
+
+    .trophy-summary .item:after {
+        display: block;
+        content: attr(title);
+        font-size: .9rem;
+        color: rgba(0, 0, 0, .5);
+        line-height: .9;
     }
 }
