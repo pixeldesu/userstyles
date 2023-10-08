@@ -1,0 +1,27 @@
+/* ==UserStyle==
+@name           Reddit - Unblock NSFW Posts
+@namespace      github.com/pixeldesu/userstyles
+@version        1.0.0
+@description    Remove modals and blurring from NSFW posts when logged out
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("reddit.com") {
+  shreddit-async-loader[bundlename*="nsfw_blocking_modal"] {
+      display: none !important;
+  }
+  
+  [style="filter: blur(4px);"] {
+      filter: blur(0px) !important;
+  }
+  
+  body[style*="pointer-events: none; overflow: hidden;"] {
+      pointer-events: all !important;
+      overflow: auto !important;
+      overflow-x: hidden !important;
+  }
+  
+  div[role="presentation"][class*="fixed"] {
+      position: static !important;
+  }
+}

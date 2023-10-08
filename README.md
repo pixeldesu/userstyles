@@ -17,6 +17,8 @@ Click on the links in the list below to directly install the styles into your lo
   * _[Hide All But First Pinned Post](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/first-pinned/first-pinned.user.css):_ Hide each pinned post except the first one on user profiles on Mastodon.
 * **Namecheap**
   * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
+* **Reddit**
+  * _[Unblock NSFW Posts](https://raw.githubusercontent.com/pixeldesu/userstyles/master/reddit/nsfw/nsfw.user.css):_ Remove modals and blurring from NSFW posts when logged out.
 * **trackmania.io**
   * _[Trophy Labels](https://raw.githubusercontent.com/pixeldesu/visuals/master/trackmania-io/trophies/trophies.user.css):_ Adds labels to trophies to display their tiers more easily.
 * **TweetDeck**
