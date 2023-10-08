@@ -1,4 +1,4 @@
-# Visuals
+# Userstyles
 Userstyles to make your life easier on some websites.
 
 ## General Usage
@@ -6,8 +6,6 @@ Userstyles to make your life easier on some websites.
 To use these styles you need to install a userscript extension to manage and add userstyles. All of the used styles are tested with **Stylus** (Download for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)).
 
 Click on the links in the list below to directly install the styles into your local userstyle extension!
-
-Styles applied for Chrome have the URL rules in the comment section at the top of each file. Firefox userstyles have a domain set inside the styles and don't need specific configuration.
 
 ## Available Styles
 
@@ -30,4 +28,4 @@ Have a small userstyle that makes usage of a website easier for you and you want
 
 ## License
 
-Visuals is licensed under the aGPLv3.
+All userstyles are licensed under the aGPLv3.
