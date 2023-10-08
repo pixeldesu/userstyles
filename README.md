@@ -10,19 +10,19 @@ Click on the links in the list below to directly install the styles into your lo
 ## Available Styles
 
 * **Bandcamp**
-  * _[Compact Collection](https://raw.githubusercontent.com/pixeldesu/visuals/master/bandcamp/collection/collection.user.css):_ Hide unnecessary content from collection pages.
+  * _[Compact Collection](https://raw.githubusercontent.com/pixeldesu/userstyles/master/bandcamp/collection/collection.user.css):_ Hide unnecessary content from collection pages.
 * **Mastodon** _(replace the placeholder URL after installing!)_
-  * _[Hide Verified Emoji](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/verified/verified.user.css):_ Hide the verified emoji on Mastodon.
-  * _[Hide "Filtered" Text](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/filtered/filtered.user.css):_ Hide the "Filtered" boxes on timelines on Mastodon.
-  * _[Hide All But First Pinned Post](https://raw.githubusercontent.com/pixeldesu/visuals/master/mastodon/first-pinned/first-pinned.user.css):_ Hide each pinned post except the first one on user profiles on Mastodon.
+  * _[Hide Verified Emoji](https://raw.githubusercontent.com/pixeldesu/userstyles/master/mastodon/verified/verified.user.css):_ Hide the verified emoji on Mastodon.
+  * _[Hide "Filtered" Text](https://raw.githubusercontent.com/pixeldesu/userstyles/master/mastodon/filtered/filtered.user.css):_ Hide the "Filtered" boxes on timelines on Mastodon.
+  * _[Hide All But First Pinned Post](https://raw.githubusercontent.com/pixeldesu/userstyles/master/mastodon/first-pinned/first-pinned.user.css):_ Hide each pinned post except the first one on user profiles on Mastodon.
 * **Namecheap**
-  * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/visuals/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
+  * _[Hide Unavailable](https://raw.githubusercontent.com/pixeldesu/userstyles/master/namecheap/unavailable/unavailable.user.css):_ Hide unavailable domains in the Namecheap domain search.
 * **Reddit**
   * _[Unblock NSFW Posts](https://raw.githubusercontent.com/pixeldesu/userstyles/master/reddit/nsfw/nsfw.user.css):_ Remove modals and blurring from NSFW posts when logged out.
 * **trackmania.io**
-  * _[Trophy Labels](https://raw.githubusercontent.com/pixeldesu/visuals/master/trackmania-io/trophies/trophies.user.css):_ Adds labels to trophies to display their tiers more easily.
+  * _[Trophy Labels](https://raw.githubusercontent.com/pixeldesu/userstyles/master/trackmania-io/trophies/trophies.user.css):_ Adds labels to trophies to display their tiers more easily.
 * **TweetDeck**
-  * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/visuals/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
+  * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/userstyles/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
 
 ## Contribute
 
