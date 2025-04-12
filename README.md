@@ -23,6 +23,8 @@ Click on the links in the list below to directly install the styles into your lo
   * _[Trophy Labels](https://raw.githubusercontent.com/pixeldesu/userstyles/master/trackmania-io/trophies/trophies.user.css):_ Adds labels to trophies to display their tiers more easily.
 * **TweetDeck**
   * _[Hide Read Direct Messages](https://raw.githubusercontent.com/pixeldesu/userstyles/master/tweetdeck/direct-messages/direct-messages.user.css):_ Hide read direct messages.
+* **Twitter**
+  * _[Hide Premium/AI stuff](https://raw.githubusercontent.com/pixeldesu/userstyles/master/twitter/hide-premium/hide-premium.user.css):_ Hide Premium, AI stuff, trends and timeline suggestions from the Twitter interface.
 * **YouTube**
   * _[Hide Shorts](https://raw.githubusercontent.com/pixeldesu/userstyles/master/youtube/shorts/shorts.user.css):_ Hide YouTube Shorts in interface.
 

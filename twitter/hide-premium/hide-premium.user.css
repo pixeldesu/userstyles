@@ -1,0 +1,42 @@
+/* ==UserStyle==
+@name           Twitter - Hide Premium/AI stuff
+@namespace      github.com/pixeldesu/userstyles
+@version        1.0.0
+@description    Hide Premium, AI stuff, trends and timeline suggestions from the Twitter interface
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("x.com") {
+  [data-testid="sidebarColumn"] .r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x,
+  [data-testid="grokImgGen"],
+  [data-testid="GrokDrawer"],
+  [aria-label="Grok actions"],
+  [aria-label="Profile Summary"],
+  [aria-label="Send a tip"],
+  [aria-label="Primary"][role="navigation"] a[href="/i/grok"],
+  [aria-label="Primary"][role="navigation"] a[href="/jobs"],
+  [aria-label="Primary"][role="navigation"] a[href="/i/premium_sign_up"],
+  [aria-label="Primary"][role="navigation"] a[href="/i/verified-orgs-signup"],
+  [aria-label="Primary"][role="navigation"] a[href*="/communities"],
+  [aria-label="Primary"][role="navigation"] a[href="/i/account_analytics"],
+  [data-testid="Dropdown"] a[href="/i/monetization"],
+  [data-testid="Dropdown"] a[href^="https://ads.x.com/"],
+  [data-testid="Dropdown"] a[href="/i/spaces/start"],
+  [role="status"]:has([href="/i/premium_sign_up?referring_page=post-composer"]),
+  [aria-label="Section navigation"] a[role="tab"][href="/settings/monetization"],
+  [aria-label="Section navigation"] a[role="tab"][href="/i/premium_sign_up?referring_page=settings"],
+  [aria-label="Section navigation"] a[role="tab"][href="/settings/manage_subscriptions"],
+  [data-testid="cellInnerDiv"]:has([data-testid="trend"]),
+  [data-testid="cellInnerDiv"]:has([data-testid="ScrollSnap-SwipeableList"]),
+  [data-testid="cellInnerDiv"]:has([data-testid="eventHero"]),
+  [data-testid="cellInnerDiv"]:has(a[role="link"][href^="/i/topics"]),
+  [data-testid="cellInnerDiv"]:has([data-testid$="subscribe"]),
+  [data-testid="cellInnerDiv"]:has(a[href^="/i/connect_people?user_id="]),
+  [aria-label*="Home timeline"]:not(:has([aria-label^="Timeline: Follow"])) [data-testid="cellInnerDiv"]:has([data-testid="UserCell"]),
+  [aria-label*="Home timeline"]:not(:has([aria-label^="Timeline: Follow"])) [data-testid="cellInnerDiv"]:has([role="heading"][aria-level="2"]),
+  [aria-label="Profile timelines"] [role="presentation"]:has([href$="/highlights"]),
+  [aria-label="Profile timelines"] [role="presentation"]:has([href$="/articles"])
+  {
+      display: none;
+  }
+}
