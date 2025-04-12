@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           YouTube - Hide Shorts
+@namespace      github.com/pixeldesu/userstyles
+@version        1.0.0
+@description    Hide YouTube shorts in the interface
+@author         pixeldesu
+==/UserStyle== */
+
+@-moz-document domain("www.youtube.com") {
+  ytd-guide-entry-renderer:has([title="Shorts"]),
+  ytd-reel-shelf-renderer,
+  ytd-rich-section-renderer:has([href^="/shorts/"]) {
+      display: none;
+  }
+}
